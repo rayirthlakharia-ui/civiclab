@@ -1,0 +1,58 @@
+[
+  {
+    "id": "us-118-s1409",
+    "number": "S. 1409",
+    "congress": 118,
+    "session": "2023–2024",
+    "jurisdiction": "United States",
+    "title": "Kids Online Safety Act",
+    "category": "Technology & young people",
+    "sponsor": "Sen. Richard Blumenthal (D–CT)",
+    "status": "not-enacted",
+    "statusLabel": "Not enacted · historical proposal",
+    "officialStatus": "Introduced",
+    "latestAction": "Placed on the Senate legislative calendar (Calendar No. 287).",
+    "latestActionDate": "2023-12-13",
+    "sourceVersion": "CRS summary · Reported to Senate · December 13, 2023",
+    "scopeNote": "This is S. 1409 from the 118th Congress, not a later bill or a related legislative package. Its proposed requirements are not presented as law.",
+    "sources": [
+      {
+        "title": "Congress.gov · Bill overview & CRS summary",
+        "url": "https://www.congress.gov/bill/118th-congress/senate-bill/1409"
+      },
+      {
+        "title": "Congress.gov · Bill text and versions",
+        "url": "https://www.congress.gov/bill/118th-congress/senate-bill/1409/text"
+      }
+    ],
+    "reviewedAt": "2026-10-23"
+  },
+  {
+    "id": "us-117-s475",
+    "number": "S. 475",
+    "congress": 117,
+    "session": "2021–2022",
+    "jurisdiction": "United States",
+    "title": "Juneteenth National Independence Day Act",
+    "category": "History & public life",
+    "sponsor": "Sen. Edward J. Markey (D–MA)",
+    "status": "enacted",
+    "statusLabel": "Enacted · Public Law 117-17",
+    "officialStatus": "Became Law",
+    "latestAction": "Became Public Law 117-17.",
+    "latestActionDate": "2021-06-17",
+    "sourceVersion": "Enacted text · Public Law 117-17 · June 17, 2021",
+    "scopeNote": "This example explains the federal law’s holiday designation. It does not determine an individual school or employer’s calendar.",
+    "sources": [
+      {
+        "title": "Congress.gov · Bill overview & legislative history",
+        "url": "https://www.congress.gov/bill/117th-congress/senate-bill/475"
+      },
+      {
+        "title": "Congress.gov · Enacted law text",
+        "url": "https://www.congress.gov/bill/117th-congress/senate-bill/475/text"
+      }
+    ],
+    "reviewedAt": "2026-10-23"
+  }
+]

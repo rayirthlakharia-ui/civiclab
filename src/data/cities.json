@@ -1,0 +1,138 @@
+[
+  {
+    "id": "dublin",
+    "name": "Dublin",
+    "region": "Tri-Valley, California",
+    "description": "From neighborhood parks to city budgets, local decisions help shape daily life in Dublin.",
+    "government": "Dublin uses a council–manager form of government: elected leaders set direction, and an appointed city manager oversees daily operations.",
+    "roles": [
+      {
+        "title": "Mayor",
+        "description": "An elected member of the City Council who provides political leadership alongside the council."
+      },
+      {
+        "title": "City Council",
+        "description": "Sets local policy and makes decisions about the city’s priorities and public resources."
+      },
+      {
+        "title": "City Manager",
+        "description": "Appointed by the council to oversee day-to-day city operations and carry out its direction."
+      }
+    ],
+    "responsibilities": [
+      "Parks & recreation",
+      "Planning & development",
+      "Local streets",
+      "City budgets"
+    ],
+    "meeting": {
+      "schedule": "Usually the 1st & 3rd Tuesday",
+      "time": "7:00 p.m. Pacific",
+      "location": "Peter W. Snyder Council Chamber · 100 Civic Plaza",
+      "url": "https://dublin.ca.gov/82/City-Council-Meetings",
+      "agendaUrl": "https://dublin.legistar.com/Calendar.aspx",
+      "agendaStatus": "The official calendar lists November 3, 2026 at 5:30 p.m. Pacific. Its agenda was not available when checked. Confirm the time on the calendar: it differs from the regular schedule.",
+      "checkedAt": "2026-10-24"
+    },
+    "participation": [
+      "Read the agenda and choose an issue you care about.",
+      "Watch or attend a council meeting; follow the agenda’s public-comment instructions.",
+      "Use the official council page to find representatives and contact information."
+    ],
+    "councilUrl": "https://www.dublin.ca.gov/71/Mayor-City-Council",
+    "sources": [
+      {
+        "title": "Dublin · City government",
+        "url": "https://www.dublin.ca.gov/27/City-Government"
+      },
+      {
+        "title": "Dublin · City Manager’s Office",
+        "url": "https://www.dublin.ca.gov/16/City-Managers-Office"
+      },
+      {
+        "title": "Dublin · Council meetings & agendas",
+        "url": "https://dublin.ca.gov/82/City-Council-Meetings"
+      },
+      {
+        "title": "Dublin · Official agenda portal",
+        "url": "https://dublin.legistar.com/Calendar.aspx"
+      },
+      {
+        "title": "Dublin · Council contact information",
+        "url": "https://dublin.ca.gov/82/City-Council-Meetings"
+      }
+    ],
+    "reviewedAt": "2026-10-23",
+    "councilEmail": "council@dublin.ca.gov"
+  },
+  {
+    "id": "san-ramon",
+    "name": "San Ramon",
+    "region": "Tri-Valley, California",
+    "description": "Discover the people and public meetings behind decisions in your San Ramon community.",
+    "government": "San Ramon uses a council–manager form of government. The mayor and four councilmembers set policy; the city manager runs daily operations.",
+    "roles": [
+      {
+        "title": "Mayor",
+        "description": "Chairs council meetings and represents the city. The mayor has the same voting authority as other councilmembers."
+      },
+      {
+        "title": "City Council",
+        "description": "Establishes policy, adopts the annual budget, and appoints the city manager."
+      },
+      {
+        "title": "City Manager",
+        "description": "Oversees daily operations and coordinates city services to carry out council policies."
+      }
+    ],
+    "responsibilities": [
+      "Parks & recreation",
+      "Planning & development",
+      "Local streets",
+      "City budgets"
+    ],
+    "meeting": {
+      "schedule": "Usually the 2nd & 4th Tuesday",
+      "time": "6:30 p.m. Pacific",
+      "location": "Council Chamber · 7000 Bollinger Canyon Road",
+      "url": "https://www.sanramon.ca.gov/how_do_i_/get_involved/official",
+      "agendaUrl": "https://sanramonca.portal.civicclerk.com/",
+      "agendaStatus": "Current meeting subjects have not been verified in CivicLab. Open the official agenda portal and select a City Council meeting to see its topics.",
+      "checkedAt": "2026-10-24"
+    },
+    "participation": [
+      "Review the agenda to see which topics will be discussed.",
+      "Check current public-comment procedures before attending; the city’s guide explains speaker cards.",
+      "Use the official council page to find representatives and contact information."
+    ],
+    "councilUrl": "https://www.sanramon.ca.gov/our_city/city_council",
+    "sources": [
+      {
+        "title": "San Ramon · City Council",
+        "url": "https://www.sanramon.ca.gov/our_city/city_council"
+      },
+      {
+        "title": "San Ramon · Understanding council meetings",
+        "url": "https://sanramon.ca.gov/our_city/city_council/understanding_council_meetings"
+      },
+      {
+        "title": "San Ramon · Official meetings & notices",
+        "url": "https://www.sanramon.ca.gov/how_do_i_/get_involved/official"
+      },
+      {
+        "title": "San Ramon · City departments",
+        "url": "https://sanramon.ca.gov/our_city/departments_and_divisions"
+      },
+      {
+        "title": "San Ramon · Official agenda portal",
+        "url": "https://sanramonca.portal.civicclerk.com/"
+      },
+      {
+        "title": "San Ramon · Council contact information",
+        "url": "https://www.sanramon.ca.gov/our_city/city_council"
+      }
+    ],
+    "reviewedAt": "2026-10-23",
+    "councilEmail": "CityCouncil@sanramon.ca.gov"
+  }
+]

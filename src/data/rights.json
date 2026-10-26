@@ -1,0 +1,230 @@
+[
+  {
+    "id": "speech",
+    "amendment": "First Amendment",
+    "title": "Your voice matters.",
+    "shortTitle": "Speech & expression",
+    "intro": "Understand how the Constitution protects expression—and why context matters.",
+    "explanation": "The First Amendment protects speech and expression against government restrictions. In public schools, students retain speech rights, but schools also have responsibilities to protect learning and safety.",
+    "scenario": "A public school student wears a quiet armband to express a political opinion. Other students disagree, but classes continue normally.",
+    "takeaway": "Disagreement alone is not the same as substantial disruption. This example is inspired by Tinker v. Des Moines; the actual circumstances still matter.",
+    "limitations": [
+      "Schools may restrict speech that materially disrupts schoolwork or invades others’ rights.",
+      "School-sponsored expression, threats, and some other categories can follow different rules. Off-campus speech also needs its own analysis."
+    ],
+    "question": {
+      "id": "speech-q1",
+      "prompt": "Does an unpopular opinion, by itself, justify banning a public school student’s political expression?",
+      "options": [
+        "Yes, if most students disagree.",
+        "No. Disagreement alone is not enough.",
+        "Yes, because students have no speech rights."
+      ],
+      "answer": 1,
+      "feedback": "Tinker distinguishes discomfort with a viewpoint from a justified concern about substantial disruption. Students retain constitutional protections."
+    },
+    "sources": [
+      {
+        "title": "Constitution Annotated · Student speech",
+        "url": "https://constitution.congress.gov/browse/essay/amdt1-7-8-4/ALDE_00000757/"
+      },
+      {
+        "title": "National Archives · First Amendment text",
+        "url": "https://www.archives.gov/founding-docs/bill-of-rights-transcript"
+      }
+    ],
+    "reviewedAt": "2026-10-23"
+  },
+  {
+    "id": "searches",
+    "amendment": "Fourth Amendment",
+    "title": "Privacy has protections.",
+    "shortTitle": "Searches & privacy",
+    "intro": "Explore the protection against unreasonable government searches.",
+    "explanation": "The Fourth Amendment protects against unreasonable searches and seizures. It sets requirements for warrants, but not every lawful search requires one. The rules depend on the setting and who conducts the search.",
+    "scenario": "A public school official has a specific reason to believe a student’s bag contains evidence of a school-rule violation. The official considers a search limited to that concern.",
+    "takeaway": "Public school officials generally use a reasonableness standard rather than the usual warrant and probable-cause requirements. The search must be justified at the start and reasonable in scope.",
+    "limitations": [
+      "A school setting does not make every search reasonable. The student’s age and the intrusiveness of the search matter.",
+      "A police search may involve different rules. This example does not resolve a real search or tell someone how to respond."
+    ],
+    "question": {
+      "id": "searches-q1",
+      "prompt": "Which statement best describes a search by a public school official?",
+      "options": [
+        "Any search is allowed at school.",
+        "Every school search requires a warrant.",
+        "The reason for the search and its scope both matter."
+      ],
+      "answer": 2,
+      "feedback": "A school search must be reasonable. Having a reason to investigate does not authorize an unlimited search."
+    },
+    "sources": [
+      {
+        "title": "Constitution Annotated · School searches",
+        "url": "https://constitution.congress.gov/browse/essay/amdt4-6-6-6/ALDE_00000802/"
+      },
+      {
+        "title": "U.S. Department of Justice · New Jersey v. T.L.O.",
+        "url": "https://www.ojp.gov/pdffiles1/Digitization/138018NCJRS.pdf"
+      },
+      {
+        "title": "National Archives · Fourth Amendment text",
+        "url": "https://www.archives.gov/founding-docs/bill-of-rights-transcript"
+      }
+    ],
+    "reviewedAt": "2026-10-23"
+  },
+  {
+    "id": "due-process",
+    "amendment": "Fifth & Fourteenth Amendments",
+    "title": "Fair process. Equal protection.",
+    "shortTitle": "Fairness & due process",
+    "intro": "Learn why government decisions must respect constitutional safeguards.",
+    "explanation": "Due process protects life, liberty, and property from government deprivation without appropriate safeguards. The Fifth Amendment applies to the federal government; the Fourteenth applies to states. The Fourteenth also expressly guarantees equal protection; equal-protection principles apply to the federal government through the Fifth.",
+    "scenario": "Imagine a government decision that would take away a protected property interest. The person affected asks what the decision is based on and how they can respond.",
+    "takeaway": "Procedural due process asks what process is owed in that setting. Equal protection asks a different question: whether the government’s treatment of people meets constitutional requirements.",
+    "limitations": [
+      "Not every disappointing decision involves a protected interest. The required process depends on the situation.",
+      "Fair process does not guarantee a preferred outcome. Equal protection does not mean every distinction is unconstitutional."
+    ],
+    "question": {
+      "id": "due-process-q1",
+      "prompt": "What is procedural due process mainly concerned with?",
+      "options": [
+        "Appropriate procedures when government takes a protected interest.",
+        "A guarantee that every decision goes your way.",
+        "A rule that all people must always receive identical treatment."
+      ],
+      "answer": 0,
+      "feedback": "Due process concerns constitutional safeguards. It does not promise a particular outcome."
+    },
+    "sources": [
+      {
+        "title": "Constitution Annotated · Due process",
+        "url": "https://constitution.congress.gov/browse/essay/amdt14-S1-3/ALDE_00013743/"
+      },
+      {
+        "title": "Constitution Annotated · Federal equal protection",
+        "url": "https://constitution.congress.gov/browse/essay/amdt5-7-3/ALDE_00013730/"
+      },
+      {
+        "title": "National Archives · Fifth Amendment text",
+        "url": "https://www.archives.gov/founding-docs/bill-of-rights-transcript"
+      },
+      {
+        "title": "National Archives · Fourteenth Amendment text",
+        "url": "https://www.archives.gov/founding-docs/amendments-11-27"
+      }
+    ],
+    "reviewedAt": "2026-10-23"
+  },
+  {
+    "id": "religion",
+    "amendment": "First Amendment",
+    "title": "Belief is a personal choice.",
+    "shortTitle": "Freedom of religion",
+    "intro": "Explore protection for religious belief and limits on government power.",
+    "explanation": "The First Amendment protects religious exercise and prohibits government establishment of religion. These protections apply to state and local governments too. Government may not single out religious practice for discriminatory treatment.",
+    "scenario": "A city creates a rule that bans a practice only when it is performed for religious reasons, while allowing comparable nonreligious conduct.",
+    "takeaway": "Targeting religious conduct raises a constitutional concern. The government must meet demanding constitutional requirements to justify discriminatory restrictions.",
+    "limitations": [
+      "Religious freedom does not automatically exempt every action from the law. Neutral, generally applicable rules can apply to religious conduct.",
+      "The details of a rule, its exceptions, and other religious-liberty laws can change the analysis."
+    ],
+    "question": {
+      "id": "religion-q1",
+      "prompt": "Which situation raises a religious-freedom concern?",
+      "options": [
+        "A government rule targeting religious conduct for discriminatory treatment.",
+        "People privately disagreeing about beliefs.",
+        "Someone voluntarily choosing a religion."
+      ],
+      "answer": 0,
+      "feedback": "The First Amendment limits government discrimination against religious exercise."
+    },
+    "sources": [
+      {
+        "title": "Constitution Annotated · Religion clauses",
+        "url": "https://constitution.congress.gov/browse/essay/amdt1-2-1/ALDE_00013267/"
+      },
+      {
+        "title": "U.S. Department of Justice · Religious liberty",
+        "url": "https://www.justice.gov/jm/1-15000-respect-religious-liberty-0"
+      }
+    ],
+    "reviewedAt": "2026-10-24"
+  },
+  {
+    "id": "petition",
+    "amendment": "First Amendment",
+    "title": "Ask your government for change.",
+    "shortTitle": "Petitioning government",
+    "intro": "Connect a constitutional protection to everyday civic participation.",
+    "explanation": "The First Amendment protects the right to petition government to address grievances. Writing to elected representatives or submitting a petition are ways to ask officials to address a problem.",
+    "scenario": "A group of teens writes to their city council asking for safer crossings near a community center. They explain the problem and suggest a change.",
+    "takeaway": "This is an example of petitioning government: asking public officials to address a concern. The protection concerns the ability to make the request, not a guarantee that officials will adopt it.",
+    "limitations": [
+      "A petition is not itself a law or an order requiring officials to approve a proposal.",
+      "Formal submissions and meeting comments have procedures. Check the relevant government office’s instructions."
+    ],
+    "question": {
+      "id": "petition-q1",
+      "prompt": "What is an example of petitioning government?",
+      "options": [
+        "Ordering a city to approve every request.",
+        "Writing to city officials asking them to fix a community problem.",
+        "Voting in a private club election."
+      ],
+      "answer": 1,
+      "feedback": "A request to public officials to address a concern is a form of petitioning."
+    },
+    "sources": [
+      {
+        "title": "U.S. House of Representatives · Petitioning Congress",
+        "url": "https://history.house.gov/Exhibitions-and-Publications/How-the-House-Works/Working-for-the-People/Petitioning-Congress/"
+      },
+      {
+        "title": "National Archives · First Amendment text",
+        "url": "https://www.archives.gov/founding-docs/bill-of-rights-transcript"
+      }
+    ],
+    "reviewedAt": "2026-10-24"
+  },
+  {
+    "id": "counsel",
+    "amendment": "Sixth Amendment",
+    "title": "A defense should not depend on wealth.",
+    "shortTitle": "Right to a lawyer",
+    "intro": "Learn about legal representation in criminal proceedings.",
+    "explanation": "The Sixth Amendment protects assistance of counsel in criminal prosecutions. For a person who cannot afford a lawyer, courts must provide counsel in qualifying criminal cases, including trials for serious crimes.",
+    "scenario": "A person facing a serious criminal charge cannot afford to hire a defense attorney. They ask the court about appointed counsel.",
+    "takeaway": "The right to counsel helps protect a fair criminal process. A qualifying defendant’s lack of money does not erase that protection.",
+    "limitations": [
+      "This does not create a general right to a free lawyer for every disagreement or civil lawsuit.",
+      "When the right applies depends on the type of proceeding and its stage. This overview does not determine eligibility in an individual case."
+    ],
+    "question": {
+      "id": "counsel-q1",
+      "prompt": "Does the Sixth Amendment guarantee a free lawyer for every kind of dispute?",
+      "options": [
+        "Yes, for every private disagreement.",
+        "No one can ever receive an appointed lawyer.",
+        "No. Its counsel protection concerns criminal prosecutions, with specific rules."
+      ],
+      "answer": 2,
+      "feedback": "Criminal defense rights do not amount to a universal guarantee of free representation in all disputes."
+    },
+    "sources": [
+      {
+        "title": "U.S. Courts · Defender services",
+        "url": "https://www.uscourts.gov/about-federal-courts/defender-services"
+      },
+      {
+        "title": "Constitution Annotated · When the right to counsel applies",
+        "url": "https://constitution.congress.gov/browse/essay/amdt6-6-3-1/ALDE_00013437/"
+      }
+    ],
+    "reviewedAt": "2026-10-24"
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "billId": "us-118-s1409",
+    "mode": "offline-demo",
+    "simple": {
+      "summary": "This proposal aimed to make certain online platforms safer for young people.",
+      "points": [
+        "It would require safeguards for minors and tools for parents.",
+        "Platforms would have to address specified harms and explain certain data-driven features."
+      ],
+      "terms": [
+        {
+          "term": "Covered platform",
+          "definition": "An online service included in the bill’s rules."
+        }
+      ],
+      "limitation": "This selected summary cannot establish how a particular app would change."
+    },
+    "detailed": {
+      "summary": "This historical proposal would place safety responsibilities on certain online services used by minors. It combines platform-design requirements, user controls, transparency, and enforcement.",
+      "points": [
+        "Who it covers: The rules would apply to covered services, including social networks likely to be used by minors. Exceptions include email providers, internet service providers, and educational institutions.",
+        "Safety by design: Platforms would need reasonable measures to prevent or reduce specified harms, such as bullying and sexual exploitation, arising from their products.",
+        "User controls: Minors would receive privacy safeguards, while parents and guardians would receive supervision tools. Reporting channels would let young people, families, and schools flag certain harms.",
+        "Transparency: Platforms would disclose information about personalized recommendations and advertising, and report annually on foreseeable risks to minors.",
+        "Recommendation choices: Certain large services would also need a version that does not rank information using user-specific data.",
+        "Accountability: The FTC and states would enforce the requirements. This version of S. 1409 did not become law; these are proposed duties, not current obligations created by this bill."
+      ],
+      "terms": [
+        {
+          "term": "FTC",
+          "definition": "Federal Trade Commission, the federal agency named in the enforcement provisions."
+        },
+        {
+          "term": "Personalized recommendations",
+          "definition": "Content ranking influenced by information about a particular user."
+        }
+      ],
+      "limitation": "Explains the December 2023 reported version, not later proposals or the effects on a particular app."
+    }
+  },
+  {
+    "billId": "us-117-s475",
+    "mode": "offline-demo",
+    "simple": {
+      "summary": "This law made June 19 a federal holiday called Juneteenth National Independence Day.",
+      "points": [
+        "It added the holiday to the federal legal-holiday list.",
+        "It became law on June 17, 2021."
+      ],
+      "terms": [
+        {
+          "term": "Enacted",
+          "definition": "A bill that has become law."
+        }
+      ],
+      "limitation": "The designation alone does not tell you whether your school or workplace closes."
+    },
+    "detailed": {
+      "summary": "Public Law 117-17 made a specific change to federal law: it added Juneteenth National Independence Day, observed on June 19, to the statutory list of legal public holidays.",
+      "points": [
+        "What changed: Section 2 amended 5 U.S.C. § 6103(a). Instead of creating a separate holiday system, Congress inserted Juneteenth into the existing federal holiday list.",
+        "How to read the law: Section 1 gives the act its short title; Section 2 contains the substantive amendment. The text is brief because it changes one part of an existing statute.",
+        "How it became law: The Senate passed S. 475 on June 15, 2021, followed by the House on June 16. It became Public Law 117-17 on June 17.",
+        "What its status means: This example is an enacted law, so the holiday designation is an actual statutory change rather than a proposal awaiting approval.",
+        "What to check separately: The designation alone does not establish your school or workplace calendar. For personal scheduling, consult the relevant institution’s calendar and applicable observance rules."
+      ],
+      "terms": [
+        {
+          "term": "U.S. Code",
+          "definition": "Federal statutes arranged by subject; the citation identifies the provision being amended."
+        },
+        {
+          "term": "Public law",
+          "definition": "An enacted federal law identified by its Congress and law number."
+        }
+      ],
+      "limitation": "Covers the holiday designation and legislative history, not a full explanation of employment or observance rules."
+    }
+  }
+]

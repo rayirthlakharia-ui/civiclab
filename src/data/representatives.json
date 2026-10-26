@@ -1,0 +1,102 @@
+[
+  {
+    "cityId": "dublin",
+    "name": "Sherry Hu",
+    "role": "Mayor",
+    "district": "Citywide",
+    "profileUrl": "https://www.dublin.ca.gov/71/Mayor-City-Council",
+    "photoSource": "https://www.dublin.ca.gov/ImageRepository/Document?documentId=24608",
+    "image": "/images/representatives/sherry-hu.jpg",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "cityId": "dublin",
+    "name": "Jean Josey",
+    "role": "Vice Mayor",
+    "district": "At-large",
+    "profileUrl": "https://www.dublin.ca.gov/71/Mayor-City-Council",
+    "photoSource": "https://www.dublin.ca.gov/ImageRepository/Document?documentId=19868",
+    "image": "/images/representatives/jean-josey.jpg",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "cityId": "dublin",
+    "name": "Kashef Qaadri",
+    "role": "Councilmember",
+    "district": "At-large",
+    "profileUrl": "https://www.dublin.ca.gov/71/Mayor-City-Council",
+    "photoSource": "https://www.dublin.ca.gov/ImageRepository/Document?documentId=32839",
+    "image": "/images/representatives/kashef-qaadri.jpg",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "cityId": "dublin",
+    "name": "Michael McCorriston",
+    "role": "Councilmember",
+    "district": "District 1",
+    "profileUrl": "https://www.dublin.ca.gov/71/Mayor-City-Council",
+    "photoSource": "https://www.dublin.ca.gov/ImageRepository/Document?documentId=24607",
+    "image": "/images/representatives/michael-mccorriston.jpg",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "cityId": "dublin",
+    "name": "John Morada",
+    "role": "Councilmember",
+    "district": "District 3",
+    "profileUrl": "https://www.dublin.ca.gov/71/Mayor-City-Council",
+    "photoSource": "https://www.dublin.ca.gov/ImageRepository/Document?documentId=38561",
+    "image": "/images/representatives/john-morada.png",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "cityId": "san-ramon",
+    "name": "Mark Armstrong",
+    "role": "Mayor",
+    "district": "At-large",
+    "profileUrl": "https://www.sanramon.ca.gov/our_city/city_council/mayor_mark_armstrong",
+    "photoSource": "https://www.sanramon.ca.gov/UserFiles/Servers/Server_10826046/Image/Our%20City/City%20Council/Armstrong_sq.jpg",
+    "image": "/images/representatives/mark-armstrong.jpg",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "cityId": "san-ramon",
+    "name": "Marisol Rubio",
+    "role": "Vice Mayor",
+    "district": "District 4",
+    "profileUrl": "https://www.sanramon.ca.gov/our_city/city_council/vice_mayor_marisol_rubio",
+    "photoSource": "https://www.sanramon.ca.gov/UserFiles/Servers/Server_10826046/Image/Our%20City/City%20Council/Rubio_4607_sq.jpg",
+    "image": "/images/representatives/marisol-rubio.jpg",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "cityId": "san-ramon",
+    "name": "Robert Jweinat",
+    "role": "Councilmember",
+    "district": "District 1",
+    "profileUrl": "https://www.sanramon.ca.gov/our_city/city_council/councilmember_robert_jweinat",
+    "photoSource": "https://www.sanramon.ca.gov/UserFiles/Servers/Server_10826046/Image/Our%20City/City%20Council/Jweinat-2025.jpeg",
+    "image": "/images/representatives/robert-jweinat.jpg",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "cityId": "san-ramon",
+    "name": "Richard Adler",
+    "role": "Councilmember",
+    "district": "District 2",
+    "profileUrl": "https://www.sanramon.ca.gov/our_city/city_council/councilmember_richard_adler",
+    "photoSource": "https://www.sanramon.ca.gov/UserFiles/Servers/Server_10826046/Image/Our%20City/City%20Council/Adler_4652_sq.jpg",
+    "image": "/images/representatives/richard-adler.jpg",
+    "verifiedAt": "2026-10-24"
+  },
+  {
+    "cityId": "san-ramon",
+    "name": "Sridhar Verose",
+    "role": "Councilmember",
+    "district": "District 3",
+    "profileUrl": "https://www.sanramon.ca.gov/our_city/city_council/councilmember_sridhar_verose",
+    "photoSource": "https://www.sanramon.ca.gov/UserFiles/Servers/Server_10826046/Image/Our%20City/City%20Council/Verose_4719_sq.jpg",
+    "image": "/images/representatives/sridhar-verose.jpg",
+    "verifiedAt": "2026-10-24"
+  }
+]
